@@ -1,20 +1,20 @@
-## Digital Business Card
+# Digital Business Card
 
 A simple and responsive digital business card built using HTML and CSS.
 
-# Features
+## Features
 
 - Responsive layout
 - Custom color palette
 - Personal profile image
 - Clean and modern design
 
-# Built With
+## Built With
 
 - HTML5
 - CSS3
 
-# What I Learned
+## What I Learned
 
 - Flexbox
 - CSS spacing and alignment
@@ -22,7 +22,7 @@ A simple and responsive digital business card built using HTML and CSS.
 - Image positioning
 - Responsive design basics
 
-# Future Improvements
+## Future Improvements
 
 - Add social media links
 - Dark mode
